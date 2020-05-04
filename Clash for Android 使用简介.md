@@ -8,8 +8,12 @@
 
 Clash for Android 为 @Kr328 大佬接手的 ClashA 项目，已经推出了一段时间了。对于习惯于使用 clash 或者策略分流类软件的人来说，Clash for Android (以下简称 cfa ) 是 Android 用户的一大福音。
 
-* 项目地址
+* 项目地址：
+  https://github.com/Kr328/ClashForAndroid
+
 * 下载地址
+  https://github.com/Kr328/ClashForAndroid/releases  
+  https://lanzous.com/b08ra68qb
 ## Clash for Android主界面简介（V 1.2.13）
 
 **初始界面**
